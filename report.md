@@ -7,7 +7,7 @@
 На тестирование затрачено: 00:20:00
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/sarkomath/java1.1-2/issues/1 - Номера карт American Express не читаются как валидные.
+* [Issue - Номера карт American Express не читаются как валидные.](https://github.com/sarkomath/java1.1-2/issues/1)
 
 ## Описание процесса тестирования
 
